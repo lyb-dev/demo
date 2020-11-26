@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 echo "2.maven build"
 sh "mvn package  -Dmaven.test.skip=true"
