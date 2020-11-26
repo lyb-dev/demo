@@ -1,20 +1,23 @@
-node {
+pipeline {
+  agent any
 
-    stages {
-        stage('Prepare') {
-             steps {
-                 sh './jenkins/scripts/prepare.sh'
-             }
-        }
-        stage('Build') {
-            steps {
-                sh './jenkins/scripts/build.sh'
-            }
-        }
-        stage('Deliver') {
-            steps {
-                sh './jenkins/scripts/deliver.sh'
-            }
-        }
+  tools {
+    maven 'maven-3.6.3'
+  }
+
+  stages {
+    stage('Build') {
+      steps {
+        sh 'mvn package -Dmaven.test.skip=true -U'
+      }
     }
+
+    stage('Make Container') {
+      steps {
+      sh "cp target/*.jar docker/"
+      sh "docker build -t demo ./docker/"
+      }
+    }
+
+  }
 }
