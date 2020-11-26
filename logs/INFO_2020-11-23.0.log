@@ -1,0 +1,25 @@
+[2020-11-23 17:35:08.679] [main] [INFO ] [com.example.demo.DemoApplication:55] - Starting DemoApplication using Java 1.8.0_161 on DESKTOP-J919POM with PID 3192 (F:\javademo\demo\target\classes started by shanl in F:\javademo\demo)
+[2020-11-23 17:35:08.681] [main] [INFO ] [com.example.demo.DemoApplication:660] - No active profile set, falling back to default profiles: default
+[2020-11-23 17:35:09.157] [main] [INFO ] [o.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2020-11-23 17:35:09.157] [main] [INFO ] [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+[2020-11-23 17:35:09.157] [main] [INFO ] [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2020-11-23 17:35:09.399] [main] [INFO ] [o.a.c.c.C.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+[2020-11-23 17:35:09.580] [main] [INFO ] [o.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2020-11-23 17:35:09.590] [main] [INFO ] [o.apache.coyote.http11.Http11NioProtocol:173] - Pausing ProtocolHandler ["http-nio-8080"]
+[2020-11-23 17:35:09.590] [main] [INFO ] [org.apache.catalina.core.StandardService:173] - Stopping service [Tomcat]
+[2020-11-23 17:35:09.593] [main] [INFO ] [o.apache.coyote.http11.Http11NioProtocol:173] - Stopping ProtocolHandler ["http-nio-8080"]
+[2020-11-23 17:35:09.593] [main] [INFO ] [o.apache.coyote.http11.Http11NioProtocol:173] - Destroying ProtocolHandler ["http-nio-8080"]
+[2020-11-23 17:41:00.576] [main] [INFO ] [com.example.demo.DemoApplication:55] - Starting DemoApplication using Java 1.8.0_161 on DESKTOP-J919POM with PID 10348 (F:\javademo\demo\target\classes started by shanl in F:\javademo\demo)
+[2020-11-23 17:41:00.578] [main] [INFO ] [com.example.demo.DemoApplication:660] - No active profile set, falling back to default profiles: default
+[2020-11-23 17:41:01.059] [main] [INFO ] [o.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8081"]
+[2020-11-23 17:41:01.059] [main] [INFO ] [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+[2020-11-23 17:41:01.059] [main] [INFO ] [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2020-11-23 17:41:01.157] [main] [INFO ] [o.a.c.c.C.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+[2020-11-23 17:41:01.319] [main] [INFO ] [o.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8081"]
+[2020-11-23 17:41:01.337] [main] [INFO ] [com.example.demo.DemoApplication:61] - Started DemoApplication in 0.991 seconds (JVM running for 2.096)
+[2020-11-23 17:41:16.913] [http-nio-8081-exec-1] [INFO ] [o.apache.tomcat.util.http.parser.Cookie:173] - A cookie header was received [1605234635,1605778772,1606098060; ZINDEXNUMBER=1990; JSESSIONID=27464F8068C5131FEFE0AD3B4065C947; Hm_lpvt_098e6e84ab585bf0c2e6853604192b8b=1606113064; _cnzz_CV1278198245=%E5%B9%B3%E5%8F%B0%7CPC%7C1606117315445; CNZZDATA1278198245=1933883554-1602214923-%7C1606115722; rememberMe=HaBCjnz6CZqsaRUHuiH6tmNC0pUJqKS0TfKP9/7nIIyVjCL3Mt/5EztkVDOD+A5UTGLc0z4XkBR1qMiL9Bnty9sPfYB8aJtc3eux8TJRz7Is9o3+2crKESIypCLYhk73ps4ifN+lDiBqRmdZo/A3DbSxxfacnwQnNgtDpnXjz+1M3b79jfqxJ80VYNQcXug0O3fAnvFCPgKE2o8OIhxW86LXuiW5d21AEnTFzhhERo5OE5aVG3PF+/02tHLcgQEdvrRBjNm1mobNlLruL8iU3OiHgXH5V/QO/3S5ILXkfaGvN9PLlfsNavn73I4HVIKiuPZt5hVArRptUnStIIqNVKSCTQbJArU6+Eb7tL5x9tpH1OKyd6ysgi35rRATmtFoZWWQLJXZ+trvMoiqKhuDOJPmSyz5WpDAccEzxH4NAyQMe9v6c2E5Jb06z0nkoxn3Y3gIRKUmJWKGHqZK+xjBv6KxsU9dRzI9ojYg1p9kaLyFADSsv4yH/ZFIEhSFKxhvuOaCvhTVGB1Pq31S28oSfGg+ooyNVz2UX0YtF/3+y03Sg7L/Vk4I4xMfgWfiBlaoA5E1NjLu85mBn6PEeITTYfI0NNZZoNzqqhCyggTmC+wgSNu6sZ4x10FBnbLfDKgpR+ZQaJCn0HkfAX8LRBbrYdm78sB8TOUocgpIUJ2yobPVlNW9YKjTl2LaHEwYbCDcxiIQavKAqfByx59xJF/Du+eszsMdUXjth6oD8PgxHVZBrPU+M1bDjQSszY2aAFHUrqsROlazgvyknTdt578wPgYbynojeYg=; sessionid=2bdc8bb9-7197-4fd5-86e6-ce9ff1e2a02f] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+[2020-11-23 17:41:16.918] [http-nio-8081-exec-1] [INFO ] [o.a.c.c.C.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-11-23 18:04:38.303] [main] [INFO ] [com.example.demo.DemoApplicationTests:55] - Starting DemoApplicationTests using Java 1.8.0_161 on DESKTOP-J919POM with PID 11348 (started by shanl in F:\javademo\demo)
+[2020-11-23 18:04:38.306] [main] [INFO ] [com.example.demo.DemoApplicationTests:660] - No active profile set, falling back to default profiles: default
+[2020-11-23 18:04:39.249] [main] [INFO ] [com.example.demo.DemoApplicationTests:61] - Started DemoApplicationTests in 1.141 seconds (JVM running for 1.991)

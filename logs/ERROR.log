@@ -1,0 +1,15 @@
+[2020-11-23 17:35:09.607] [main] [ERROR] [o.s.b.d.LoggingFailureAnalysisReporter:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+[2020-11-23 17:41:21.541] [http-nio-8081-exec-5] [ERROR] [com.example.demo.DemoApplication:20] - --------hello world----------

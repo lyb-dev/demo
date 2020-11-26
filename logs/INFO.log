@@ -1,0 +1,3 @@
+[2020-11-25 11:00:35.956] [main] [INFO ] [com.example.demo.DemoApplicationTests:55] - Starting DemoApplicationTests using Java 1.8.0_161 on DESKTOP-J919POM with PID 27136 (started by shanl in F:\javademo\demo)
+[2020-11-25 11:00:35.961] [main] [INFO ] [com.example.demo.DemoApplicationTests:660] - No active profile set, falling back to default profiles: default
+[2020-11-25 11:00:36.900] [main] [INFO ] [com.example.demo.DemoApplicationTests:61] - Started DemoApplicationTests in 1.142 seconds (JVM running for 1.943)
